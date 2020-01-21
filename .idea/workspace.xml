@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630e459b-cc8b-433f-9aaa-8ae85b040b65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WbYATcgEjdysAfoFkbwdimqgbH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/classes/java/test/com/leo/mybatis/suixingpay/dao" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\open_workspace\leo-mybatis\build\classes\java\test\com\leo\mybatis\suixingpay\dao" />
+      <recent name="D:\open_workspace\leo-mybatis\src\test\resources" />
+      <recent name="D:\open_workspace\leo-mybatis\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\open_workspace\leo-mybatis\src\test\resources\com\leo\mybatis\suixingpay\dao" />
+      <recent name="D:\open_workspace\leo-mybatis\src\test\java\com\leo\mybatis\suixingpay\dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leo.mybatis.suixingpay.TestMain" />
+      <module name="leo-mybatis.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leo.mybatis.suixingpay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630e459b-cc8b-433f-9aaa-8ae85b040b65" name="Default Changelist" comment="" />
+      <created>1579419617620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579419617620</updated>
+      <workItem from="1579419619696" duration="5443000" />
+      <workItem from="1579483865042" duration="5584000" />
+      <workItem from="1579508580185" duration="2703000" />
+      <workItem from="1579570053960" duration="8253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2961" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1579486962189">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2961" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579486962189" />
+    <state x="2930" y="394" key="FileChooserDialogImpl" timestamp="1579428195630">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2930" y="394" key="FileChooserDialogImpl/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579428195630" />
+    <state width="2507" height="437" key="GridCell.Tab.0.bottom" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.0.center" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.0.left" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.0.right" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.1.bottom" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.1.center" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.1.left" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state width="2507" height="437" key="GridCell.Tab.1.right" timestamp="1579579305201">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="437" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579579305201" />
+    <state x="2585" y="254" key="SettingsEditor" timestamp="1579422415318">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2585" y="254" key="SettingsEditor/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579422415318" />
+    <state x="2811" y="358" width="778" height="684" key="find.popup" timestamp="1579420328388">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2811" y="358" width="778" height="684" key="find.popup/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579420328388" />
+    <state x="2772" y="327" key="run.anything.popup" timestamp="1579426735606">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2772" y="327" key="run.anything.popup/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579426735606" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/leo/mybatis/suixingpay/TestMain.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/executor/SimpleExecutor.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/executor/SimpleExecutor.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/executor/SimpleExecutor.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/binding/MapperProxy.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/binding/MapperProxy.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/binding/MapperProxy.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/session/defaults/DefaultSqlSession.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/session/defaults/DefaultSqlSession.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leo/mybatis/session/defaults/DefaultSqlSession.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
